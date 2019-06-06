@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width:1366px) { 
+
+
+}
+
+@media screen and (max-width:1199px) { 
+
+.logo-img {
+  max-width: 100%;
+  width: 260px;
+}
+.andoird-app li {
+  margin: 0 15px 0 0;
+  padding:7px 15px;
+  width: 210px;
+}
+}
+
+@media screen and (max-width:999px) { 
+.slide-left {
+	display: none;
+}
+.home-slide {
+    background: url(../images/slide-bg1.jpg) center top no-repeat;
+        background-size: auto auto;
+}
+
+.slide-right {
+	width: 70%;
+}
+.slide-fixed {
+	position: relative;
+
+}
+.slick-slide {
+	margin: 0 0 0 10px;
+}
+.home-slide {
+	height: 100%;
+	padding-bottom: 40px;
+}
+.navbar-brand {
+	float: none;
+	padding: 0;
+	font-size: 18px;
+	line-height: 20px;
+	margin: 0 auto 20px !important;
+	display: table;
+	text-align: center;
+}
+.navbar-header {
+	float: left;
+	width: 100%;
+}
+.nav_fix.bg_black_nav .navbar-header {
+	display: none;
+}
+}
+
+
+@media screen and (max-width:767px) { 
+.features .left {
+	display: none;
+}
+.who-are {
+	padding: 40px 0;
+}
+.out-team-slider {
+	padding: 40px 0;
+}
+.pravacy {
+	padding: 40px 0;
+}
+.features {
+	padding: 40px 0;
+}
+.who-are p {
+	width: 100%;
+	line-height: 23px;
+	font-size: 13px;
+}
+.micro-menu .navbar-toggle {
+	margin-left: 15px;
+	margin-right: 0px;
+}
+.navbar.navbar-default.micro-menu ul {
+	float: left;
+	width: 100%;
+	margin: 0;
+}
+.micro-menu .navbar-header {
+	float: none;
+	width: 100%;
+	margin: 0 auto !important;
+	display: block !important;
+}
+.who-are h2, .who-are h2 span {
+	font-size: 30px;
+}
+.black , .black1 {
+	font-size: 30px;
+}
+.screen_short .slick-next.slick-arrow {
+	left: 50%;
+}
+.out-team-slider .slick-prev.slick-arrow {
+	left: 43%;
+}
+.client .slick-next.slick-arrow {
+	left: 54%;
+}
+.features .right {
+	width:94%;
+}
+.who-are-box h3 {
+	font-size: 18px;
+}
+.bg_black_nav {
+	padding: 10px 0 0 0;
+}
+.slide-right h2, .slide-right h2 span {
+	font-size: 35px;
+}
+.andoird-app li {
+	margin: 0 27px 15px 0;
+}
+.nav_fix.bg_black_nav .navbar-brand {
+	width: 140px;
+	line-height: normal;
+	height: auto;
+	padding-top:5px;
+	float: left;margin:0px !important;
+}
+}
+
+@media screen and (max-width:479px) { 
+
+
+
+
+
+}
+
+
+
